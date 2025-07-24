@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       {/* Background music (placeholder) */}
-      <audio src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" autoPlay loop hidden />
+      <audio src="https://drive.google.com/uc?export=download&id=1PLX6Ktls334I8Z9GdP0XuafqBo_RjQE8" autoPlay loop hidden />
       {/* Sparkles for festive effect */}
       <div className="sparkle" style={{top: '10%', left: '20%'}} />
       <div className="sparkle" style={{top: '30%', left: '80%'}} />
@@ -41,12 +41,12 @@ function App() {
       </div>
       <div className="photo-grid">
         {/* Placeholder photos around the site */}
-        <img src="https://drive.google.com/uc?export=view&id=1PMbekMNCcIkUEBZ60Lwt-ECCvpJmZuMC" alt="placeholder" className="photo top-left" />
-        <img src="https://via.placeholder.com/80" alt="placeholder" className="photo top-right" />
-        <img src="https://via.placeholder.com/80" alt="placeholder" className="photo bottom-left" />
-        <img src="https://via.placeholder.com/80" alt="placeholder" className="photo bottom-right" />
-        <img src="https://via.placeholder.com/80" alt="placeholder" className="photo left" />
-        <img src="https://via.placeholder.com/80" alt="placeholder" className="photo right" />
+        <img src="https://drive.google.com/thumbnail?id=1PMbekMNCcIkUEBZ60Lwt-ECCvpJmZuMC" alt="placeholder" className="photo top-left" />
+        <img src="https://drive.google.com/thumbnail?id=13mNmuPozqRICXXQAm1Y_0jzPc7MyBBiP" alt="placeholder" className="photo top-right" />
+        <img src="https://drive.google.com/thumbnail?id=1RyJyR6PBnfeqKw5FCu3y7hAHj9BjSk7x" alt="placeholder" className="photo bottom-left" />
+        <img src="https://drive.google.com/thumbnail?id=18nQqCrLgPOsBKTfSEX4TvS8xrYzqbbC0" alt="placeholder" className="photo bottom-right" />
+        <img src="https://drive.google.com/thumbnail?id=1xgoyYAH0IsX9ut8clht9OR6F26sWnmCt" alt="placeholder" className="photo left" />
+        <img src="https://drive.google.com/thumbnail?id=17kki66gzuTW0iB9p7oQlO1x7Km7QfZoq" alt="placeholder" className="photo right" />
       </div>
       <main className="center-message">
         <h1>Happy 20th BERTDAY, TAMIMI!</h1>
